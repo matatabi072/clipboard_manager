@@ -3,9 +3,6 @@
 # ユーザーデータ（履歴・定型文・設定 — 個人情報を含みうるため公開しない）
 clipboard_manager_data.txt
 
-# 仕様書（内部ドキュメント・非公開）
-SPECIFICATION.md
-
 # 開発中のテスト残骸・個人メモ
 notepad_recovery.txt
 window*.png
